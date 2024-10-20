@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Heebo", sans-serif;
+}
+
+:root{
+    --light-gray: #F4F5F9;
+}
+
+.main{
+    background-color: var(--light-gray);
+    min-height: 60vh;
+}
+.prime{
+    background-color: var(--light-gray);
+}
+
+/* <div class="container-fluid row bg-dark">
+<div class="col-md-7 my-3">
+    <h3 class="text-light">Assine nossa newsletter</h3>
+    <div class="row">
+        <div class="col-md-6">
+            <label for="email" class="form-label text-light">Email</label>
+            <input type="email" class="form-control" id="email" placeholder="Seu email" required>
+        </div>
+        <div class="col-md-6">
+            <label for="nome" class="form-label text-light">Nome</label>
+            <input type="text" class="form-control" id="name" placeholder="Seu nome" required minlength="10"
+                maxlength="20">
+        </div>
+    </div>
+    <div class="botao d-flex justify-content-end">
+        <button type="button" class="btn btn-outline-light my-3">Assinar Agora</button>
+    </div>
+</div>
+<div class="col-md-5 d-flex justify-content-center align-items-center flex-column">
+    <h3 class="text-light my-4">MatrixShop</h3>
+    <h5 class="text-light">Baixe nosso app</h5>
+    <div class="botao">
+        <button type="button" class="btn btn-outline-light my-3 mx-2"><i class="bi bi-google-play"></i> Google Play</button>
+        <button type="button" class="btn btn-outline-light my-3 mx-2"><i class="bi bi-apple"></i> Apple Store</button>
+    </div>
+
+    <div class="icons fs-4 text-light">
+        <i class="bi bi-instagram mx-2"></i>
+        <i class="bi bi-facebook mx-2"></i>
+        <i class="bi bi-twitter mx-2"></i>
+        <i class="bi bi-youtube mx-2"></i>
+    </div>
+</div>
+</div>
+
+<div class="alunos">
+<h2 class="=border-top border-top-secondary">Desenvolvido por Luis-554803 e lucas-</h2>
+</div> */
